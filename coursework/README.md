@@ -1,6 +1,6 @@
 # Coursework
 
-* [/tf-cnn](coursework/tf-cnn) — Convolutional Network in TensorFlow
+* [/tf-cnn](./tf-cnn) — Convolutional Network in TensorFlow
 * [/tf-digit-recognition](coursework/tf-digit-recognition) — Handwritten Number Recognition with TFLearn and MNIST
 * [/tf-intro](coursework/tf-intro) — Intro into TensorFlow
 * [/tf-sentiment-analysis](coursework/sentiment-analysis) — Sentiment Analysis with TFLearn
