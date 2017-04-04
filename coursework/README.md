@@ -7,6 +7,7 @@
 * [/sentiment-rnn](./sentiment-rnn) — Sentiment Analysis with an RNN
 * [/sentiment-analysis](./sentiment-analysis) — Sentiment Classification, Sentiment Analysis with Andrew Trask
 * [/tf-embeddings](./tf-embeddings) — Skip-gram word2vec using TensorFlow
+* [/transfer-learning](./transfer-learning) — Transfer Learning with VGGNet
 
 ## Installation
 ```

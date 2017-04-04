@@ -114,23 +114,16 @@ dependencies:
 - menpo::opencv3=3.1.0=py35_0
 - menpo::widgetsnbextension=1.2.3=py35_1
 - pip:
-  - appdirs==1.4.3
-  - beautifulsoup4==4.5.3
   - ipython-genutils==0.1.0
   - jupyter-client==4.4.0
   - jupyter-console==5.1.0
   - jupyter-core==4.2.1
   - keras==1.2.2
   - moviepy==0.2.2.13
-  - packaging==16.8
-  - pandas-datareader==0.3.0.post0
   - prompt-toolkit==1.0.13
   - protobuf==3.2.0
   - pyyaml==3.12
-  - requests==2.13.0
-  - requests-file==1.4.1
-  - requests-ftp==0.3.1
-  - tensorflow-gpu==1.0.1
+  - tensorflow-gpu==1.0.0
   - theano==0.8.2
   - tqdm==4.11.2
 prefix: /home/carnd/anaconda3/envs/dl
