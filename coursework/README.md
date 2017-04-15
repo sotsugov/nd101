@@ -8,6 +8,9 @@
 * [/sentiment-analysis](./sentiment-analysis) — Sentiment Classification, Sentiment Analysis with Andrew Trask
 * [/tf-embeddings](./tf-embeddings) — Skip-gram word2vec using TensorFlow
 * [/transfer-learning](./transfer-learning) — Transfer Learning with VGGNet
+* [/sequence-to-sequence](./sequence-to-sequence) — Sequence to Sequence in TensorFlow
+* [/reinforcement](./reinforcement) — Reinforcement Learning (Deep Q-Learning)
+
 
 ## Installation
 ```
