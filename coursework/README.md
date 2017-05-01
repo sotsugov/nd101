@@ -10,6 +10,7 @@
 * [/transfer-learning](./transfer-learning) — Transfer Learning with VGGNet
 * [/sequence-to-sequence](./sequence-to-sequence) — Sequence to Sequence in TensorFlow
 * [/reinforcement](./reinforcement) — Reinforcement Learning (Deep Q-Learning)
+* [/autoencoder](./autoencoder) — Convolutional Autoencoders
 
 
 ## Installation
