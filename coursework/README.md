@@ -11,6 +11,7 @@
 * [/sequence-to-sequence](./sequence-to-sequence) — Sequence to Sequence in TensorFlow
 * [/reinforcement](./reinforcement) — Reinforcement Learning (Deep Q-Learning)
 * [/autoencoder](./autoencoder) — Convolutional Autoencoders
+* [/gan_mnist](./gan_mnist) — Generative Adversarial Network (MNIST)
 
 
 ## Installation
