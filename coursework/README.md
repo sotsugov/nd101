@@ -12,6 +12,7 @@
 * [/reinforcement](./reinforcement) — Reinforcement Learning (Deep Q-Learning)
 * [/autoencoder](./autoencoder) — Convolutional Autoencoders
 * [/gan_mnist](./gan_mnist) — Generative Adversarial Network (MNIST)
+* [/batch_norm](./batch_norm) — Batch Normalization
 
 
 ## Installation
