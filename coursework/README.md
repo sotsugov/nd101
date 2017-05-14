@@ -13,7 +13,7 @@
 * [/autoencoder](./autoencoder) — Convolutional Autoencoders
 * [/gan_mnist](./gan_mnist) — Generative Adversarial Network (MNIST)
 * [/batch_norm](./batch_norm) — Batch Normalization
-
+* [/dcgan-svhn](./dcgan-svhn) — Deep Convolutional GANs
 
 ## Installation
 ```
